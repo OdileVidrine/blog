@@ -1,5 +1,5 @@
 ---
-title: bird list
+title: About Me
 ---
 
-pelican, great blue heron, killdeer, cooper's hawk
+I am a programmer, forager and birdwatcher in Atlanta.
