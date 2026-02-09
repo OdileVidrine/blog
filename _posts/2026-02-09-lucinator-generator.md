@@ -6,21 +6,22 @@ I remember the first time I was amazed by neural network created images. I saw a
 from OpenAI, showing these images DALL-E made from the text prompt "an armchair in the shape of an avocado."
 ![an AI generated image of an avocado chair](/assets/images/avocado_2.png) ![an AI generated image of an avocado chair](/assets/images/avocado_3.png)
 
-Since then AI has evolved at a rate my human brain can't fully comprehend. AI generated images are now impossible to
+Since then AI has evolved at a rate my human brain can't fully comprehend. AI-generated images are now impossible to
 distinguish from other types of images with a cursory glance.
 
 I understand why this is happening. It's the most logical way to improve the product. But I think something
 interesting is being lost forever as AI models improve.
 
 Here is an image I found on an archived 4chan thread from August 29, 2022, where the user prompted
-Stable Diffusion to create "special agent dale cooper visiting my cats." The result is unsettling.
+Stable Diffusion to create "special agent dale cooper visiting my cats." 
+(Disclaimer- I do not endorse anything that happens on 4chan. However, I must praise the people at https://desuarchive.org for their dedication to providing an easily searchable archive)
+The result is unsettling.
 ![an AI generated image of dale cooper with cats](/assets/images/dale_cooper_2022.png)
 
 This is what Nano Banana creates February 9, 2026, with the same prompt. Aside from the "TNiN PPAEX" text
 visible, all the AI weirdness has been scrubbed from the image. Dale and his cats are no longer lumpy and
 smeared with the wrong number of legs.
 ![an AI generated image of dale cooper with cats](/assets/images/dale_cooper_2026.png)
-
 
 Here is another example from the same archived 4chan thread from August 29, 2022, using the prompt 
 "Full-body illustration of the Goddess Athena, golden armor, white robe, flowing blonde hair, detailed gentle motherly face, digital illustration, manga, アニメ, pixiv fanbox, intricate art by Ilya Kuvshinov, Alberto Vargas"
@@ -29,7 +30,6 @@ I do think GFPGAN Face Correction was used on this image, but her eyes are still
 
 And today, February 9, 2026, Nano Banana creates this using the same prompt.
 ![an AI generated image of athena](/assets/images/athena_2026.png)
-
 
 I think the era of six-fingered hands, smeary eyes, and smudgy faces is gone forever. And because it happened so fast,
 and the creepy era of AI generated images was seen as a flaw that needed to be fixed, no one archived the crappy stuff.
@@ -42,7 +42,6 @@ This shows an example from each epoch as the AI attempted to generate photos of 
 ![a grid of ai generated images resembling a black and white cat](/assets/images/epoch_grid170.png)
 Later I modified the training datat to contain 300 pictures of my cat, and ran the code again.
 ![a grid of ai generated images resembling a black and white cat](/assets/images/epoch_grid170.png)
-
 
 Considering how many images in a row look the same, I think there is overfitting happening. I plan to do more testing with
 larger sets of photos. 
